@@ -1,7 +1,7 @@
 ---
 title: New job, new software
-date: 2024-04-01T22:13:59Z
-description: I’ve started a new part-time job as Biodiversity Assistant, and found some rather cool software in the process
+date: 2024-04-01T20:20:14Z
+description: "I’ve started a new part-time job as Biodiversity Assistant, and found some rather cool software in the process"
 categories: Tools
 tags:
   - Biodiversity
