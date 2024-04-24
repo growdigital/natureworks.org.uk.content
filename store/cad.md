@@ -15,7 +15,7 @@ features:
 - "Video captions 🐝 😊"
 - "Telegram support group 😲 🎉"
 - "Buckets of resources 🪣 👊"
-price: 29.99
+price: 1.00
 link: https://natureworksgarden.gumroad.com/l/cad
 ---
 

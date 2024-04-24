@@ -14,7 +14,6 @@ imageAlt:
 imageCap:
 - Leaf on a tree
 ---
-
 Full steam ahead with the [CAD for Gardeners](https://natureworks.org.uk/class/cad/) online class, I did a run through of the video, looks like it’ll be more like 1.5 hours than 1 hour but hey. Tomorrow, I start _recording_, which will be nice if a bit scary.
 
 Had some good interactions on [Mastodon](https://mas.to/@naturworks), it is so much more considered and thoughtful, people don’t lash out like on Twitter. There’s no algorithms to get you riled, as Adam Curtis says “angry people click” and this is different to that.

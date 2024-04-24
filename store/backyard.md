@@ -15,7 +15,7 @@ features:
 - "Open slideshow license 😎 👍🏾"
 - "Video captions 🐝 😊"
 - "Access to Telegram group 😲 🎉"
-price: 99.99
+price: 1.00
 link: https://natureworksgarden.gumroad.com/l/BackyardForest
 ---
 
