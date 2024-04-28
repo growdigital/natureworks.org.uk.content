@@ -1,21 +1,21 @@
 ---
-title: "Backyard Forest"
+title: Backyard Forest
 date: 2021-10-21T15:38:38
 draft: false
-images: 
-- "https://res.cloudinary.com/growdigital/image/upload/v1632217390/course/Backyard_banner.jpg"
-imageAlt: 
-- "Small front forest garden with text 'The Backyard Forest'"
-summary: "Complete online forest garden course £49.99"
-length: "3¾ hours"
-level: "Beginner/Intermediate"
-features: 
-- "Clear, methodical layout 🤓 📐"
-- "Slideshows always online 🙏🏾 💚"
-- "Open slideshow license 😎 👍🏾"
-- "Video captions 🐝 😊"
-- "Access to Telegram group 😲 🎉"
-price: 49.99
+images:
+  - https://res.cloudinary.com/growdigital/image/upload/v1632217390/course/Backyard_banner.jpg
+imageAlt:
+  - Small front forest garden with text 'The Backyard Forest'
+summary: Complete online forest garden course £49.99
+length: 3¾ hours
+level: Beginner/Intermediate
+features:
+  - Clear, methodical layout 🤓 📐
+  - Slideshows always online 🙏🏾 💚
+  - Open slideshow license 😎 👍🏾
+  - Video captions 🐝 😊
+  - Access to Telegram group 😲 🎉
+price: 1
 link: https://www.udemy.com/course/the-backyard-forest/
 ---
 
