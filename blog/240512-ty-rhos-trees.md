@@ -8,7 +8,7 @@ tags:
   - Nursery
   - TyRhosTrees
 images:
-  - https://res.cloudinary.com/growdigital/image/upload/v1715540547/17155405082100.jpg
+  - https://res.cloudinary.com/growdigital/image/upload/v1715540547/240512-bath-ty-rhos-trees.jpg
 imageAlt:
   - Old bath amongst flowering Wild Garlic, used as a watering source
 imageCap:
