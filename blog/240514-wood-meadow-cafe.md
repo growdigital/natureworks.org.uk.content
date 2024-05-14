@@ -1,15 +1,18 @@
 ---
 title: Wood Meadow Café
-date: 2024-05-14T20:52:24Z
+date: 2024-05-14T19:52:24Z
 description: Imagine a densely wood meadow combined with a cup of delicious beverage and your favourite cake, that is the idea behind the Wood Meadow Café!
 category: WoodMeadow
 tags:
   - WoodMeadow
   - cafe
   - idea
-images: https://res.cloudinary.com/growdigital/image/upload/v1715375173/240509-coffi-cwtch-field.jpg
-imageAlt: Cafe seats and overhang, overlooking a football pitch
-imageCap: Yes, I know it’s a football pitch, but imagine if it were a wood meadow, surrounded by hedging?
+images:
+  - https://res.cloudinary.com/growdigital/image/upload/v1715375173/240509-coffi-cwtch-field.jpg
+imageAlt:
+  - Cafe seats and overhang, overlooking a football pitch
+imageCap:
+  - Yes, I know it’s a football pitch, but imagine if it were a wood meadow, surrounded by hedging?
 draft: false
 ---
 
