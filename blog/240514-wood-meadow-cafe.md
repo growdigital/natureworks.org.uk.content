@@ -23,3 +23,5 @@ Well, at its simplest, it’s roughly 40% mown meadow and 60% stands of trees an
 What about a wood meadow **café**? Imagine, somewhere to sit, decent coffee ☕ & cake 🍰, parking, toilets. And imagine the meadow stretched out before you, with wide mown grass paths curving through the long, flower-studded grass, surrounded by impenetrable hedges. And you can let the children run around, safe yet immersed. Multi-use, multi-generational, supporting sustainable livelihoods.
 
 Who wouldn’t want to go to the wood meadow café? 
+
+Idea originally on my [fundraiser page](https://ko-fi.com/natureworks/goal?g=37) for my trip to see Estonian wood meadows for real.
